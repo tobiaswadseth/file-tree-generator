@@ -1,6 +1,6 @@
 {
   "name": "file-tree-generator",
-  "displayName": "file-tree-generator",
+  "displayName": "File Tree Generator",
   "description": "Generate a file tree of a folder",
   "version": "0.1.1",
   "publisher": "tobiaswadseth",
@@ -8,6 +8,8 @@
     "type": "git",
     "url": "https://github.com/tobiaswadseth/file-tree-generator"
   },
+  "homepage": "https://github.com/tobiaswadseth/file-tree-generator/README.md",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.60.0"
   },
