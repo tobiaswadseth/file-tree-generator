@@ -2,7 +2,7 @@
   "name": "file-tree-generator",
   "displayName": "File Tree Generator",
   "description": "Generate a file tree of a folder",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "publisher": "tobiaswadseth",
   "repository": {
     "type": "git",
